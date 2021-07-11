@@ -1,8 +1,8 @@
 
-<h1 align="center">⚔️ 𝐃3𝐕𝐈𝐋 𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔️</h1>
+<h1 align="center">⚔️ кιⓃ𝐆 𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔️</h1>
 
 
-[![𝙳3𝚅𝙸𝙻 LOGO](https://telegra.ph/file/c42d5eddd24a9e6acd576.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
+[![кιⓃ𝐆 LOGO](https://telegra.ph/file/bd98bff8addc046f3fac7.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -42,13 +42,13 @@
 
 ```
 Get help regarding setting up 
-your D3VIL SPAMMERS BOT in our official 
+your кιⓃ𝐆 SPAMMERS BOT in our official 
 support Group and get updates
 notifications in Update Channel.
 ```
 
-## ℂℝ𝔼𝔸𝕋𝔼ℝ:-[𝔻3_𝕂ℝ𝕀𝕊ℍ](https://t.me/D3_krish)
-## 𝕆𝕎ℕ𝔼ℝ:-[𝐇𝐄𝐀𝐕𝐄𝐍 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐒](https://t.me/Heaven_Princess)
+## ℂℝ𝔼𝔸𝕋𝔼ℝ:-[𝕀𝕞𝕥𝕖𝕪𝕒𝕫_𝕜𝕚𝕟𝕘](https://t.me/Imteyaz_king)
+## 𝕆𝕎ℕ𝔼ℝ:-[𝙸𝚖𝚝𝚎𝚢𝚊𝚣_𝚔𝚒𝚗𝚐](https://t.me/Imteyaz_king)
 </details>
 
 <h1 align="center">⚙️ Set-Up ⚙️</h1>
@@ -58,7 +58,7 @@ notifications in Update Channel.
 
 - Termux
     - Clone `git clone https://github.com/D3KRISH/D3VILSPAMMERSBOT.git`
-    - Then Do  `cd D3VILSPAMMERBOT`
+    - Then Do  `cd kingSPAMMERBOT`
     - Run String Generator By
            `bash string.sh`
     - Then Fill The Required Details.
@@ -106,7 +106,7 @@ notifications in Update Channel.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 D3KRISH
+Copyright (C) 2021 Imteyaz
 
 Poject [D3VIL_BOT](https://github.com/D3KRISH/D3VILSPAMMERSBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
