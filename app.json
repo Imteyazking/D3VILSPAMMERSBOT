@@ -1,6 +1,6 @@
 {
   "name": "кιⓃ𝐆 Spammer UserBot",
-  "description": "D3vil Smapper UserBot made by @Imteyaz_king join for query in telegram @D3VIL_SUPPORT",
+  "description": "кιⓃ𝐆 Smapper UserBot made by @Imteyaz_king join for query in telegram @King_fighter_Bot_support",
   "logo": "https://telegra.ph/file/bd98bff8addc046f3fac7.jpg",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/D3KRISH/D3VILSPAMMERSBOT",
-  "website":   "https://GitHub.com/D3KRISH/D3VILSPAMMERSBOT",
-  "success_url": "https://t.me/D3VIL_BOT_SUPPORT",
+  "repository": "https://github.com/Imteyazking/KinGSPAMMERSBOT",
+  "website":   "https://github.com/Imteyazking/KinGSPAMMERSBOT",
+  "success_url": "https://t.me/King_fighter_Bot_support",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -177,7 +177,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "⚔️ȴꬴꬶꬴꬼɖᶏꭉỿ ꝍƒ ȶꬴᶏꬺ ɖ3ⱱᶖȴ⚔️",
+      "value": "⚔️『𝐍°𝟏』кιⓃ𝐆 ⓕι𝐆𝒽𝓉ε𝐫 β𝔬𝓉༒⚔️",
       "required": false
     },
     "G_DRIVE_CLIENT_SECRET": {
@@ -217,7 +217,7 @@
     },
     "PAKET_ISMI": {
       "description": "Set the edit command package name. The name of the package will be: @ UserName the value you give is 1 ",
-      "value": "@D3VIL_SUPPORT",
+      "value": "@King_fighter_Bot_support",
       "required": false
     },
     "OTOMATIK_KATILMA": {
