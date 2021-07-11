@@ -2,7 +2,7 @@
 <h1 align="center">⚔️ кιⓃ𝐆 𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔️</h1>
 
 
-[![кιⓃ𝐆 LOGO](https://telegra.ph/file/bd98bff8addc046f3fac7.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
+[![кιⓃ𝐆 LOGO](https://telegra.ph/file/bd98bff8addc046f3fac7.jpg)](https://t.me/King_fighter_Bot_support)
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -10,9 +10,9 @@
 
 # FORK AT YOUR OWN RISK
 
-<a href="https://t.me/D3VIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/King_fighter_Bot_support"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/joinchat/FNgu5eTO7jE1OWNl"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/KingFighterSupport"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <details>
 
@@ -22,9 +22,9 @@
 
 <h4>⚔️ DEPLOY TO HEROKU ⚔️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https://github.com/Imteyazking/D3VILSPAMMERSBOT&template=https://github.com/Imteyazking/D3VILSPAMMERSBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https://github.com/Imteyazking/KinGSPAMMERSBOT&template=https://github.com/Imteyazking/KinGSPAMMERSBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
-<h2 align="center"> <a href="https://github.com/D3KRISH/D3VILSPAMMERSBOT">⚔️ 𝔻𝟛𝕍𝕀𝕃 𝕊ℙ𝔸𝕄𝕄𝔼ℝ 𝔹𝕆𝕋 ⚔️</a></h2>
+<h2 align="center"> <a href="https://github.com/D3KRISH/D3VILSPAMMERSBOT">⚔️ кιⓃ𝐆 𝕊ℙ𝔸𝕄𝕄𝔼ℝ 𝔹𝕆𝕋 ⚔️</a></h2>
 
 ## [STRING_SESSION](https://replit.com/@D3krish/D3VILSTRINGSESSION-1#main.py)
 
