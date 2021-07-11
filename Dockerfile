@@ -1,4 +1,4 @@
-# Thanks to mkaraniya & D3KRISH
+# Thanks to mkaraniya & Imteyaz
 
 FROM fusuf/asenauserbot:latest
 RUN git clone https://github.com/D3KRISH/D3VILSPAMMERSBOT /root/AsenaUserBot
