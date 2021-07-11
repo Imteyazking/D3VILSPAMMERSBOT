@@ -1,4 +1,4 @@
-# credits to SAMEER & D3KRISH
+# credits to SAMEER & Imteyaz
 
 import asyncio
 import datetime
