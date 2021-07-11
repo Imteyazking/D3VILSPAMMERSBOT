@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you provide fork, add your repo URL here. By default, our repo address is attached.",
-      "value": "https://github.com/D3KRISH/D3VILSPAMMERBOT",
+      "value": "https://github.com/Imteyazking/KinGSPAMMERSBOT",
       "required": true
     },
     "COUNTRY": {
