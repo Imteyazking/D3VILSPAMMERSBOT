@@ -26,7 +26,7 @@
 
 <h2 align="center"> <a href="https://github.com/D3KRISH/D3VILSPAMMERSBOT">⚔️ кιⓃ𝐆 𝕊ℙ𝔸𝕄𝕄𝔼ℝ 𝔹𝕆𝕋 ⚔️</a></h2>
 
-## [STRING_SESSION](https://replit.com/@D3krish/D3VILSTRINGSESSION-1#main.py)
+## [STRING_SESSION](https://replit.com/@Imteyazking01/D3VILSTRINGSESSION-1#main.py)
 
 </details>
 
