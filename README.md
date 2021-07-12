@@ -91,7 +91,7 @@ notifications in Update Channel.
     - `APP_ID`:   You can get this value from [here](https://my.telegram.org)
     - `API_HASH`:   You can get this value from [here](https://my.telegram.org)
     - `ENV`:   `ANYTHING`
-    - `STRING_SESSION`:   You can get this value from running `python3 string_session.py` https://replit.com/@D3krish/D3VILSTRINGSESSION-1#main.py
+    - `STRING_SESSION`:   You can get this value from running `python3 string_session.py` https://replit.com/@Imteyazking01/KingspamerSTRINGSESSION-2#main.py
     - `LOG_GROUP`:   Make a Channel Or Group and get it's id.
     - `DATABASE_URL`:   Make a database on elephant sql and paste the url.
     - `DB_URI`:   Same as `DATABASE_URL`
