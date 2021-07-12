@@ -108,7 +108,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 Imteyaz
 
-Poject [D3VIL_BOT](https://github.com/D3KRISH/D3VILSPAMMERSBOT) is free software: you can redistribute it and/or modify
+Poject [KinGSPAMMERSBOT](https://github.com/Imteyazking/KinGSPAMMERSBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
