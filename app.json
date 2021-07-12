@@ -36,7 +36,7 @@
       "required": false
     },
     "STRING_SESSION": {
-      "description": "python3 GenerateStringSession.py https://replit.com/@D3krish/D3VILSTRINGSESSION-1#main.py.",
+      "description": "python3 GenerateStringSession.py https://replit.com/@Imteyazking01/KingspamerSTRINGSESSION-2#main.py.",
       "required": true
     },
     "HEROKU_MEMEZ": {
